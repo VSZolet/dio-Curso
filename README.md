@@ -1,2 +1,2 @@
-# dio-Curso
-Repositorio pra projetos do curso DIO
+# Curso de primeiro repositorio GitHub
+## Repositorio pra projeto do Curso DIO
